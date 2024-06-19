@@ -1,1 +1,5 @@
-
+Planning & Coding: This involves defining project requirements, writing code, and adhering to version control practices.
+Continuous Integration (CI): Code changes are frequently merged into a central repository, where automated builds and tests are triggered to identify errors early on.
+Continuous Testing (CT): Throughout the development process, automated and manual tests ensure the software functions as intended.
+Continuous Delivery/Deployment (CD): Changes are automatically packaged and deployed to testing or production environments, enabling faster releases.
+Monitoring & Feedback: Performance and user feedback are continuously monitored to identify issues and areas for improvement.
